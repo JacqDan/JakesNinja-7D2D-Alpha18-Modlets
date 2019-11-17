@@ -5,7 +5,7 @@
         <set xpath="/progression/level/@exp_to_level">2386</set>
         <set xpath="/progression/level/@skill_points_per_level">2</set>
 -->
-        <append xpath="/progression" >
+        <append xpath="/progression" > 
           <!-- Orginal values 9546 exp_to_level and 1 skill_points_per_level -->
           <!-- 2 X Speed 4773 ; 4 x speed 2386 -->
                 <level exp_to_level="2386" skill_points_per_level="2" />
