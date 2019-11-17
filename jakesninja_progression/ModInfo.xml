@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="jakesninja_progression" />
+		<Description value="Speeds upp the leveling and gives more 2x points" />
+		<Author value="JakesNinja" />
+		<Version value="1.0.3" />
+		<!--
+		    v1.0.1 - Correct case of XUi folder for Linux (and probably MAC) compatibility
+		-->
+		<Website value="http://7daystodie.com" />
+	</ModInfo>
+</xml>

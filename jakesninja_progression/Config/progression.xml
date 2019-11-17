@@ -1,0 +1,13 @@
+<config5>
+<!-- test and name the mod in the startup prtogress -->
+        <remove xpath="/Successfully_Loaded[@modname='jakesninja_progression'][@version='1.0.1'][@filename='\Config\progression.xml']" />
+<!--
+        <set xpath="/progression/level/@exp_to_level">2386</set>
+        <set xpath="/progression/level/@skill_points_per_level">2</set>
+-->
+        <append xpath="/progression" >
+          <!-- Orginal values 9546 exp_to_level and 1 skill_points_per_level -->
+          <!-- 2 X Speed 4773 ; 4 x speed 2386 -->
+                <level exp_to_level="2386" skill_points_per_level="2" />
+        </append>
+</configs>
